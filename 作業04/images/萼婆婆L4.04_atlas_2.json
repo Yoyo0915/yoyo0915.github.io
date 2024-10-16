@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"圖層4":
+{
+	"frame": {"x":622,"y":1185,"w":431,"h":427},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":431,"h":427},
+	"sourceSize": {"w":431,"h":427}
+},
+"圖層5":
+{
+	"frame": {"x":0,"y":0,"w":574,"h":657},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":574,"h":657},
+	"sourceSize": {"w":574,"h":657}
+},
+"萼婆婆01":
+{
+	"frame": {"x":576,"y":0,"w":568,"h":576},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":568,"h":576},
+	"sourceSize": {"w":568,"h":576}
+},
+"萼婆婆02":
+{
+	"frame": {"x":622,"y":578,"w":518,"h":605},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":518,"h":605},
+	"sourceSize": {"w":518,"h":605}
+},
+"萼婆婆03":
+{
+	"frame": {"x":0,"y":659,"w":620,"h":563},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":620,"h":563},
+	"sourceSize": {"w":620,"h":563}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "23.0.7.149",
+	"image": "萼婆婆L4.04_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
